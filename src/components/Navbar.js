@@ -5,13 +5,12 @@ class Navbar extends Component {
         return ( 
             <nav>
                 <h1>Context</h1>
-            
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Contact</li>
-                <li></li>
-            </ul>
+                    <ul>
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li></li>
+                    </ul>
             </nav>
          );
     }
